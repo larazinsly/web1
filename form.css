@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to left, #3d2506, #6d3f15);
+}
+div{ /* para centralizar a div */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    color:navajowhite ;    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: normal;
+    font-weight: 800;
+    border: 1cm;
+}
+
+label{
+    color:navajowhite;
+    align-items: center;
+    text-align: center;
+    font-family: Times, Times New Roman, serif;
+       
+
+}
+
+input{
+    margin-bottom: 15px;
+}
